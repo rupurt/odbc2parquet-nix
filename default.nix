@@ -5,11 +5,11 @@
   ...
 }: {
   pname ? "odbc2parquet",
-  version ? "0.15.5",
+  version ? "0.15.6",
   shas ? {
-    aarch64-darwin = "da8h4lQfxb1RLx8l/UP5No+1amvRHUzgeApw+hw/DFs=";
-    x86_64-darwin = "da8h4lQfxb1RLx8l/UP5No+1amvRHUzgeApw+hw/DFs=";
-    x86_64-linux = "atwIHyxcmMY4TkzU2NAKLSjc+CFQnZSPMM1VOm2dOCY=";
+    aarch64-darwin = "07vza723n7q3v6m8x1clw195z4hhimpiqp4g5fbmardac40ac651";
+    x86_64-darwin = "07vza723n7q3v6m8x1clw195z4hhimpiqp4g5fbmardac40ac651";
+    x86_64-linux = "0js0pldq00k5nl914qqlss36953bkmm38sbpjsrankiqsibixv03";
   },
   ...
 }: let
